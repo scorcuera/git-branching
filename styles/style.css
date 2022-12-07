@@ -1,6 +1,24 @@
 body {
     height: 100vh;
+}
+
+main {
+    height: 95vh;
+}
+
+nav {
+    height: 15vh;
+    background-color: brown;
+}
+
+header {
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+footer {
+    height: 5vh;
+    background-color: black;
 }
