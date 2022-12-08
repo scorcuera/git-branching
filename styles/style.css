@@ -8,8 +8,9 @@ main {
 
 /* add some styles for your cool navbar !*/
 nav {
-    height: 15vh;
-    background-color: rgb(107, 45, 199);
+    height: 10vh;
+    background-color: rgb(177, 100, 45);
+    padding: 1rem;
 }
 
 header {
